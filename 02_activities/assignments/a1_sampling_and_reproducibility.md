@@ -10,10 +10,14 @@ Modify the number of repetitions in the simulation to 100 (from the original 100
 
 Alter the code so that it is reproducible. Describe the changes you made to the code and how they affected the reproducibility of the script file. The output does not need to match Whitby’s original blogpost/graphs, it just needs to produce the same output when run multiple times
 
-# Author: YOUR NAME
+# Author: Liliana C. Wu
 
 ```
-Please write your explanation here...
+In the simulation model, the first sampling used all individuals to simulate infections by  randomly selects 10% of the 1,000 individuals to be infected. The second sampling simulates the limitations of "real-world" contact tracing, where among the infected individuals, only 20% are traced. This method reflects the resource constraints described in the blog. The third sampling method introduces secondary contact tracing, where If at least two infected individuals from the same event are successfully traced, the model assumes that all infected attendees of that event will then be traced as well. This method favors large, structured events (like weddings) over smaller, dispersed gatherings (like brunches), replicating the bias from the blog about—where settings that are easier to trace become overrepresented in the data. 
+
+The code does appear to reproduce the graphs from the original post. 
+
+Without setting a random seed, it is hard to repoduce the same results, each run yielded slightly different plots. I've set a seed a the beggining of the script to make it reproducible 
 
 ```
 
