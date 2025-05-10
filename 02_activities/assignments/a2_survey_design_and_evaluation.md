@@ -44,26 +44,31 @@ The number of your chosen topic: `#`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The purpose of the survey is to gather insights from current AND previous employees in entry-level and low-level positions about their job satisfaction, challenges, and reasons for leaving ( or if they consider leaving) the company 
+
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target population: All current and former employees who have worked in entry- or lower-level positions within the company in the past few months  (i.e., 6?)
+
+sampling frame: The company’s HR database with records of active and recently exited employees in entry-level/low-level roles
+
+sampling units: employees (current and former)
+
+observational units: the individual employees?
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. What was your department and job title at the company?
+2. How long did you work (or have you been working) at the company? (please answer in months)
+3. How satisfied were you with your role overall? (this could be a categorical question with options: very satisfied, satisfied, neutral, somewhat dissatisfied, very dissatisfied)
+4. How would you rate the support you received from your immediate manager/supervisor?
+5. Were there clear opportunities for career advancement or promotion within your role?
+6. How satisfied were you with your compensation (salary, benefits, etc.) relative to your responsibilities?
+7.  If you have left the company, what were the main reasons? (categorical question with options: Lack of growth; Low compensation ;poor management; Company culture ; Better opportunity elsewhere;  Workload/stress ; Other (please specify): ______)
+
 ```
 
 ## Part B - Survey Evaluation:
@@ -71,7 +76,32 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+1. Sample type
+    stratified random sampling method 
+2. Sample size
+    not sure.. I coudln't find the number 
+3. Target population
+    persons aged 15 years and over living in private households in Canada, excluding residents of the Yukon, Northwest Territories and Nunavut and full time residents of institutions
+4. Sampling frame
+   "This survey uses a frame that combines landline and cellular telephone numbers from the Census and various administrative sources with Statistics Canada's dwelling frame. "
+5. Survey mode(s) 
+     Data collection was conducted through computer-assisted telephone interviews (CATI) and, for the first time in this cycle, an electronic questionnaire (EQ) completed online by respondents
+6. Timeline
+    every 5 years?
+7. Response rate
+    The overall response rate is 41.9%
+8. Weights
+    didn't really specify ... "Survey estimates were adjusted (weighted) to represent all persons in the target population, including those not covered by the survey frame" 
+9. Data processing
+    "Processing used the SSPE set of generalized processing steps and utilities to allow subject matter and survey support staff to specify and run the processing of the survey in a timely fashion with high quality outputs.It used a structured environment to monitor the processing of data ensuring best practices and harmonized business processes were followed"
+10. Cleaning, imputation, etc
+    Missing or inconsistent responses were addressed through imputation methods, such as donor imputation
+11. Sources of error
+    "Edits were performed automatically and manually at various stages of processing at macro and micro levels. They included family, consistency and flow edits. Family relationships were checked to ensure the integrity of matrix data. A series of checks were done to ensure the consistency of survey data. An example was to check the respondent age against the respondent birth date. Flow edits were used to ensure respondents followed the correct path and fix off-path situations. Error detection was done through edits programmed into the CATI system"
+12. Limitations, known biases, etc
+     exclusion of residents from the territories and full-time residents of institutions. Also, the introduction of the electronic questionnaire could introduce mode effects, potentially affecting how respondents interpret and answer questions.
+13. Link to documentation and any additional sources used
+    Source: https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&amp;SDDS=4430
 ```
 
 ## Rubric
