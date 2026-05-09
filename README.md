@@ -37,23 +37,23 @@ By the end of the module, participants will be able to:
 
 ## Assignments
 
-* Assignment 1 - Due Date: 02 February 2026
-* Assignment 2 - Due Date: 09 February 2026                                               
+* Assignment 1 - Due Date: 24 May 2026
+* Assignment 2 - Due Date: 31 May 2026                                               
 
 ## Contacts
 
 **Questions can be submitted to the *#dc2-help* channel on Slack**
 
 -   Technical Facilitator:
-    -   name and pronouns: `Ciara Zogheib`, `She/Her`
-    -   email: `ciara.zogheib@mail.utoronto.ca`
+    -   name and pronouns: `Justin Bi`, `He/him`
+    -   email: `justin.bi@mail.utoronto.ca`
 -   Learning Support Staff:
-    -   name: `Gayathri Girish Kumar`
-    -   email: `gayathri.girishkumar@mail.utoronto.ca`
-    -   name: `Adita Kulkarni`
-    -   email: `adityaskulkarni23@gmail.com`
+    -   name: `Namra Arif`
+    -   email: `namraarif@live.com`
 	-   name: `Vishakh Patel`
     -   email: `vishakh.patel@mail.utoronto.ca`
+    - 	name: `Anjali Shrivastava`
+    -   email: `anju_shrivastava@yahoo.com`
 
 ## Delivery of the Learning Module
 
